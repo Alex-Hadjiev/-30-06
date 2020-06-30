@@ -1,0 +1,5 @@
+classic;Dan Brown;Digital Fortress;1998;9780312180874;371;hardback
+audiobook;Dan Brown;Digital Fortress;2010;9780312180844;1024;aac
+ebook;Dan Brown;Digital Fortress;2007;9781429902304;371;epub
+classic;J. K. Rowlin;Harry Potter and the Philosopher's Stone;1997; 0747532699111;332;paperback
+ebook; J. K. Rowlin; Harry Potter and the Philosopher's Stone;2005; 0747532699222;332;pdf
